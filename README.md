@@ -1,5 +1,8 @@
 # 💫 About Me:
-My self Anusha Nikam a 3rd year undergarduate student studying in Indian Institute of Technology Kharagpur , <br>I am an ambitious student intresting in web development SQL data scienece and analytics and UI/UX development . I have worked with <br>multiple projects and won several hackathons and won awards with my co collabrators. 
+Hi, I'm Anusha Nikam — a 3rd-year undergraduate student at the Indian Institute of Technology Kharagpur.
+I’m a passionate and ambitious learner with strong interests in Web Development, SQL, Data Science & Analytics, and UI/UX Design.
+
+I’ve actively worked on several impactful projects and collaborated with talented peers to win multiple hackathons and innovation awards. I thrive in team environments that encourage creativity, problem-solving, and building solutions that make a difference.
 
 
 ## 🌐 Socials:
